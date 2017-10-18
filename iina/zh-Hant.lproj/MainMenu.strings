@@ -5,7 +5,7 @@
 "0m7-3r-twH.title" = "打開 URL...";
 
 /* Class = "NSMenuItem"; title = "Set IINA as The Default App…"; ObjectID = "0os-i1-tJF"; */
-"0os-i1-tJF.title" = "將 IINA 設爲預設APP…";
+"0os-i1-tJF.title" = "將 IINA 設為預設應用程式…";
 
 /* Class = "NSMenuItem"; title = "Normal Size"; ObjectID = "1UK-8n-QPP"; */
 "1UK-8n-QPP.title" = "原始大小";
@@ -29,7 +29,7 @@
 "4ae-MT-2L1.title" = "音訊延遲 + 0.5秒";
 
 /* Class = "NSMenuItem"; title = "Quit IINA"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "退出 IINA";
+"4sb-4s-VLi.title" = "結束 IINA";
 
 /* Class = "NSMenuItem"; title = "About IINA"; ObjectID = "5kV-Vb-QxS"; */
 "5kV-Vb-QxS.title" = "關於 IINA";
@@ -38,7 +38,7 @@
 "5xN-ZB-VLI.title" = "旋轉";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "6Eq-ni-6hG"; */
-"6Eq-ni-6hG.title" = "進入全熒幕";
+"6Eq-ni-6hG.title" = "進入全螢幕";
 
 /* Class = "NSMenuItem"; title = "Step Forward 5s"; ObjectID = "6yE-op-DTS"; */
 "6yE-op-DTS.title" = "快進5秒";
@@ -53,7 +53,7 @@
 "9pa-9C-ueQ.title" = "<無>";
 
 /* Class = "NSMenuItem"; title = "Save Downloaded Subtitle"; ObjectID = "9zk-co-roT"; */
-"9zk-co-roT.title" = "存儲已下載字幕";
+"9zk-co-roT.title" = "儲存已下載的字幕";
 
 /* Class = "NSMenu"; title = "Subtitle"; ObjectID = "16p-PA-x34"; */
 "16p-PA-x34.title" = "字幕";
@@ -62,7 +62,7 @@
 "43n-Ed-5kT.title" = "快速設定";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "主菜單";
+"AYu-sK-qS6.title" = "主選單";
 
 /* Class = "NSMenuItem"; title = "Screenshot"; ObjectID = "AoP-K6-Kb5"; */
 "AoP-K6-Kb5.title" = "截取畫面";
@@ -95,10 +95,10 @@
 "EKp-Qx-4Mn.title" = "字幕";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
-"F2S-fz-NVQ.title" = "幫助";
+"F2S-fz-NVQ.title" = "說明";
 
 /* Class = "NSMenuItem"; title = "Documentation / Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "IINA 幫助";
+"FKE-Sm-Kum.title" = "IINA 說明";
 
 /* Class = "NSMenu"; title = "Video Track"; ObjectID = "FTu-CF-O0R"; */
 "FTu-CF-O0R.title" = "視訊軌道";
@@ -119,7 +119,7 @@
 "Gqg-wU-RRo.title" = "剪下";
 
 /* Class = "NSMenuItem"; title = "Reset Audio Delay"; ObjectID = "H3d-jR-YCr"; */
-"H3d-jR-YCr.title" = "重置音訊延遲";
+"H3d-jR-YCr.title" = "重設音訊延遲";
 
 /* Class = "NSMenuItem"; title = "Video"; ObjectID = "H8h-7b-M4v"; */
 "H8h-7b-M4v.title" = "視訊";
@@ -146,7 +146,7 @@
 "Kd2-mp-pUS.title" = "顯示全部";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "置頂全部視窗";
+"LE2-aR-0XJ.title" = "將所有視窗移至最前";
 
 /* Class = "NSMenuItem"; title = "Playback History"; ObjectID = "LND-1n-DU2"; */
 "LND-1n-DU2.title" = "播放記錄";
@@ -158,16 +158,16 @@
 "LsU-Qz-dax.title" = "字幕延遲 - 0.5秒";
 
 /* Class = "NSMenuItem"; title = "Find Online Subtitles…"; ObjectID = "Mg3-WB-gjZ"; */
-"Mg3-WB-gjZ.title" = "查找在線字幕...";
+"Mg3-WB-gjZ.title" = "尋找線上字幕...";
 
 /* Class = "NSMenuItem"; title = "Save Current Playlist..."; ObjectID = "Mjr-lL-oEt"; */
-"Mjr-lL-oEt.title" = "存儲當前播放列表...";
+"Mjr-lL-oEt.title" = "儲存目前的播放列表...";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
 "NMo-om-nkz.title" = "服務";
 
 /* Class = "NSMenuItem"; title = "Vertical (Flip)"; ObjectID = "OIu-H0-Mht"; */
-"OIu-H0-Mht.title" = "豎直翻轉";
+"OIu-H0-Mht.title" = "垂直翻轉";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "縮到最小";
@@ -194,10 +194,10 @@
 "Rqg-VS-aIj.title" = "網站";
 
 /* Class = "NSMenuItem"; title = "Fit to Screen"; ObjectID = "SHd-63-Xoh"; */
-"SHd-63-Xoh.title" = "符合熒幕大小";
+"SHd-63-Xoh.title" = "符合螢幕大小";
 
 /* Class = "NSMenuItem"; title = "Reset Subtitle Delay"; ObjectID = "SLr-6g-Mgh"; */
-"SLr-6g-Mgh.title" = "重置字幕延遲";
+"SLr-6g-Mgh.title" = "重設字幕延遲";
 
 /* Class = "NSMenuItem"; title = "Step Backward 5s"; ObjectID = "Sif-85-FF1"; */
 "Sif-85-FF1.title" = "後退5秒";
@@ -224,7 +224,7 @@
 "Wbq-vt-hzX.title" = "音量 + 5%";
 
 /* Class = "NSMenuItem"; title = "Next Frame"; ObjectID = "XDC-Pc-rS1"; */
-"XDC-Pc-rS1.title" = "下一幀";
+"XDC-Pc-rS1.title" = "下一影格";
 
 /* Class = "NSMenuItem"; title = "Scale Up"; ObjectID = "XHu-Dl-Vq2"; */
 "XHu-Dl-Vq2.title" = "放大";
@@ -236,7 +236,7 @@
 "Zhv-Bz-I5V.title" = "音量 - 1%";
 
 /* Class = "NSMenuItem"; title = "Custom Touch Bar..."; ObjectID = "ZnF-yX-7jP"; */
-"ZnF-yX-7jP.title" = "自定 Touch Bar...";
+"ZnF-yX-7jP.title" = "自訂 Touch Bar...";
 
 /* Class = "NSMenuItem"; title = "Playlist Loop"; ObjectID = "aSc-P6-fiZ"; */
 "aSc-P6-fiZ.title" = "列表循環";
@@ -299,10 +299,10 @@
 "jxT-CU-nIS.title" = "播放";
 
 /* Class = "NSMenuItem"; title = "Load External Subtitle…"; ObjectID = "k6x-hf-ATi"; */
-"k6x-hf-ATi.title" = "加載外置字幕...";
+"k6x-hf-ATi.title" = "載入外掛字幕...";
 
 /* Class = "NSMenuItem"; title = "Bigger Size"; ObjectID = "lDC-IC-peP"; */
-"lDC-IC-peP.title" = "增大";
+"lDC-IC-peP.title" = "較大大小";
 
 /* Class = "NSMenuItem"; title = "Audio"; ObjectID = "lYN-0x-lzT"; */
 "lYN-0x-lzT.title" = "音訊";
@@ -323,13 +323,13 @@
 "n90-to-nRT.title" = "翻轉";
 
 /* Class = "NSMenuItem"; title = "Delete Current File"; ObjectID = "npH-8B-XA4"; */
-"npH-8B-XA4.title" = "將當前播放檔丢到垃圾桶";
+"npH-8B-XA4.title" = "將目前播放的檔案丢到垃圾桶";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "打開最近檔案";
+"oas-Oc-fiZ.title" = "打開最近的檔案";
 
 /* Class = "NSMenuItem"; title = "Previous Frame"; ObjectID = "oxF-BB-lBy"; */
-"oxF-BB-lBy.title" = "上一幀";
+"oxF-BB-lBy.title" = "上一影格";
 
 /* Class = "NSMenuItem"; title = "Subtitle Delay +0.5s"; ObjectID = "pAo-L5-qTO"; */
 "pAo-L5-qTO.title" = "字幕延遲 + 0.5秒";
@@ -362,7 +362,7 @@
 "wex-rX-PcY.title" = "視窗置頂";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "幫助";
+"wpr-3q-Mcd.title" = "說明";
 
 /* Class = "NSMenuItem"; title = "<None>"; ObjectID = "wrS-JG-jF6"; */
 "wrS-JG-jF6.title" = "<無>";
@@ -371,9 +371,9 @@
 "xDJ-GA-Gjs.title" = "字幕";
 
 /* Class = "NSMenuItem"; title = "Deinterlace"; ObjectID = "yHI-7D-OaI"; */
-"yHI-7D-OaI.title" = "抗交錯";
+"yHI-7D-OaI.title" = "反交錯";
 
-"Qv1-xd-wj5.title" = "新建視窗";
+"Qv1-xd-wj5.title" = "建立新視窗";
 
 "z9W-ga-j3b.title" = "在新視窗中打開…";
 
