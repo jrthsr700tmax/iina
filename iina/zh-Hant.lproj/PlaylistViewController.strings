@@ -20,8 +20,8 @@
 "rjs-Qf-mT6.label" = "播放列表";
 
 /* Class = "NSTextFieldCell"; title = "Chapter Title"; ObjectID = "vmJ-Ry-xgK"; */
-"vmJ-Ry-xgK.title" = "章節名";
+"vmJ-Ry-xgK.title" = "章節名稱";
 
-"j2t-mO-cpo.title" = "匹配的字幕";
+"j2t-mO-cpo.title" = "符合的字幕";
 
 "zod-Ch-cOH.title" = "錯誤的字幕!";
