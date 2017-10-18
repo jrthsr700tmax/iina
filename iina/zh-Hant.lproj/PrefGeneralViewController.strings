@@ -2,22 +2,22 @@
 "2Hu-qC-UMi.title" = "主題:";
 
 /* Class = "NSButtonCell"; title = "Keep window open when playback finished"; ObjectID = "2iM-j7-AzQ"; */
-"2iM-j7-AzQ.title" = "播放完畢後保持視窗打開";
+"2iM-j7-AzQ.title" = "播放完畢後保持視窗開啟";
 
 /* Class = "NSTextFieldCell"; title = "Save to"; ObjectID = "2rJ-mg-OuU"; */
-"2rJ-mg-OuU.title" = "存儲爲";
+"2rJ-mg-OuU.title" = "儲存為";
 
 /* Class = "NSMenuItem"; title = "Ultra Dark"; ObjectID = "3XV-iO-y0C"; */
-"3XV-iO-y0C.title" = "深黑色";
+"3XV-iO-y0C.title" = "暗色";
 
 /* Class = "NSTextFieldCell"; title = "Playlist:"; ObjectID = "6TV-DG-503"; */
 "6TV-DG-503.title" = "播放列表:";
 
 /* Class = "NSTextFieldCell"; title = "Requires restarting IINA to take effect."; ObjectID = "8kU-8g-VgX"; */
-"8kU-8g-VgX.title" = "需重啟 IINA 方可生效";
+"8kU-8g-VgX.title" = "需要重新啟動 IINA 後套用";
 
 /* Class = "NSMenuItem"; title = "Light"; ObjectID = "49l-le-9k6"; */
-"49l-le-9k6.title" = "淺色";
+"49l-le-9k6.title" = "亮色";
 
 /* Class = "NSButtonCell"; title = "Enable \"Open Recent\" menu"; ObjectID = "55O-ik-ql6"; */
 "55O-ik-ql6.title" = "記錄最近打開的檔案";
@@ -32,34 +32,34 @@
 "IYU-9y-fBL.title" = "啟動後顯示檔案選擇介面";
 
 /* Class = "NSButtonCell"; title = "Black out other monitors while in full screen"; ObjectID = "KYi-0W-zOr"; */
-"KYi-0W-zOr.title" = "當全熒幕播放時關熄其餘熒幕";
+"KYi-0W-zOr.title" = "當全螢幕播放時關閉其他螢幕";
 
 /* Class = "NSButtonCell"; title = "Play next item automatically"; ObjectID = "Lac-Ol-g6E"; */
-"Lac-Ol-g6E.title" = "自動播放下一個";
+"Lac-Ol-g6E.title" = "自動播放下一項目";
 
 /* Class = "NSButtonCell"; title = "Enter fullscreen when media is opened"; ObjectID = "MlG-hl-goA"; */
-"MlG-hl-goB.title" = "進入全熒幕";
+"MlG-hl-goB.title" = "進入全螢幕";
 
 /* Class = "NSButtonCell"; title = "Add files in the same folder automatically"; ObjectID = "QJq-fO-hhK"; */
-"QJq-fO-hhK.title" = "自動添加檔案至當前檔案夾";
+"QJq-fO-hhK.title" = "自動加入檔案至目前的檔案夾";
 
 /* Class = "NSTextFieldCell"; title = "Otherwise only files that opened manually will show up in this menu"; ObjectID = "XFC-Lr-LmP"; */
-"XFC-Lr-LmP.title" = "若否，則僅手動打開的檔案會顯示於此菜單中";
+"XFC-Lr-LmP.title" = "若否將顯示手動打開的檔案會於選菜單中";
 
 /* Class = "NSButtonCell"; title = "Quit when no window is opened"; ObjectID = "YLo-6E-tT7"; */
-"YLo-6E-tT7.title" = "沒有打開的視窗時退出";
+"YLo-6E-tT7.title" = "沒有打開的視窗時結束";
 
 /* Class = "NSTextFieldCell"; title = "/path/to/screenshot/folder"; ObjectID = "YeH-hk-7NN"; */
-"YeH-hk-7NN.title" = "熒幕截取路徑";
+"YeH-hk-7NN.title" = "螢幕畫面截取路徑";
 
 /* Class = "NSMenuItem"; title = "Medium Light"; ObjectID = "bPK-Wy-OMI"; */
-"bPK-Wy-OMI.title" = "半淺色";
+"bPK-Wy-OMI.title" = "中等亮色";
 
 /* Class = "NSButtonCell"; title = "Enable playback history"; ObjectID = "iGS-qN-f5q"; */
 "iGS-qN-f5q.title" = "啟用播放記錄";
 
 /* Class = "NSButtonCell"; title = "Resume last playback position"; ObjectID = "jOB-D3-WT3"; */
-"jOB-D3-WT3.title" = "自動恢復上次播放位置";
+"jOB-D3-WT3.title" = "自動回復到上次播放位置";
 
 /* Class = "NSTextFieldCell"; title = "History:"; ObjectID = "jeK-46-2BG"; */
 "jeK-46-2BG.title" = "記錄:";
@@ -77,14 +77,14 @@
 "pdx-zt-kf2.title" = "截圖:";
 
 /* Class = "NSMenuItem"; title = "Dark"; ObjectID = "qeB-ls-rwg"; */
-"qeB-ls-rwg.title" = "深色";
+"qeB-ls-rwg.title" = "中等暗色";
 
 /* Class = "NSTextFieldCell"; title = "Behavior:"; ObjectID = "uQR-Fx-oEm"; */
-"uQR-Fx-oEm.title" = "行爲:";
+"uQR-Fx-oEm.title" = "行為:";
 
 "gqT-CB-Puw.title" = "啟動後:";
 
-"z9T-8h-1T0.title" = "顯示歡迎視窗";
+"z9T-8h-1T0.title" = "顯示歡迎介面";
 
 "1ce-4b-kgG.title" = "顯示開啟檔案對話方塊";
 
