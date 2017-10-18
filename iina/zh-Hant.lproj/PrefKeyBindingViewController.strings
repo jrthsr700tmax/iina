@@ -2,7 +2,7 @@
 "2WY-CR-baD.title" = "使用 macOS 快速鍵";
 
 /* Class = "NSButtonCell"; title = "Display raw values"; ObjectID = "3RK-1k-otl"; */
-"3RK-1k-otl.title" = "顯示原値";
+"3RK-1k-otl.title" = "顯示原始値";
 
 /* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "4Bn-MF-dfY"; */
 "4Bn-MF-dfY.headerCell.title" = "命令";
@@ -20,7 +20,7 @@
 "aXG-QD-GyW.title" = "Text Cell";
 
 /* Class = "NSTextFieldCell"; title = "Configuration:"; ObjectID = "au5-6f-s55"; */
-"au5-6f-s55.title" = "設定檔案:";
+"au5-6f-s55.title" = "設定檔:";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "c46-i5-iw0"; */
 "c46-i5-iw0.title" = "Text Cell";
@@ -29,7 +29,7 @@
 "e70-25-5E4.title" = "啟用 Apple Remote";
 
 /* Class = "NSButtonCell"; title = "Reveal config file in Finder"; ObjectID = "gDo-JL-a9k"; */
-"gDo-JL-a9k.title" = "在 Finder 中瀏覽設定檔案";
+"gDo-JL-a9k.title" = "在 Finder 中瀏覽設定檔";
 
 /* Class = "NSButtonCell"; title = "Duplicate..."; ObjectID = "gpZ-Rh-DMn"; */
 "gpZ-Rh-DMn.title" = "複製...";
