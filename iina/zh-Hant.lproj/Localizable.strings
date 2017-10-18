@@ -13,8 +13,8 @@
 "general.logout" = "登出";
 "general.ok" = "好";
 "general.cancel" = "取消";
-"general.username" = "用戶名";
-"general.password" = "密鑰";
+"general.username" = "使用者名稱";
+"general.password" = "密碼";
 
 // PlaylistViewController.swift
 "playlist.playlist_cap" = "播放列表";
@@ -24,7 +24,7 @@
 "main.buffering_indicator" = "緩衝中... %d%%";
 
 // QuickSettingViewController.swift
-"quicksetting.item_default" = "默認";
+"quicksetting.item_default" = "預設";
 "quicksetting.item_none" = "空";
 
 // OSDMessage.swift
@@ -35,7 +35,7 @@
 "osd.aspect" = "長寬比: %@";
 "osd.crop" = "裁切: %@";
 "osd.rotate" = "轉過: %i°";
-"osd.deinterlace" = "抗交錯: %@";
+"osd.deinterlace" = "反交錯: %@";
 "osd.audio_delay.nodelay" = "音訊延遲: 無";
 "osd.audio_delay.later" = "音訊延遲: 向後%.2f秒";
 "osd.audio_delay.earlier" = "音訊延遲: 向前%.2f秒";
@@ -44,8 +44,8 @@
 "osd.sub_delay.earlier" = "字幕延遲: 向前%.2f秒";
 "osd.subtitle_pos" = "字幕位置: %.1f";
 "osd.mute" = "靜音";
-"osd.unmute" = "聲音開啟";
-"osd.screenshot" = "熒幕已截取";
+"osd.unmute" = "音量開啟";
+"osd.screenshot" = "已截取螢幕畫面";
 "osd.abloop.a" = "AB循環: A";
 "osd.abloop.b" = "AB循環: B";
 "osd.abloop.clear" = "AB循環: 復原";
@@ -77,7 +77,7 @@
 "preference.network" = "網路";
 "preference.control" = "控制";
 "preference.keybindings" = "快速鍵";
-"preference.advanced" = "高級";
+"preference.advanced" = "進階";
 "preference.scripts" = "腳本";
 "preference.not_logged_in" = "未登入";
 "preference.logged_in_as" = "以 %@ 登入";
@@ -85,85 +85,85 @@
 "menu.volume"= "音量: %d";
 "menu.audio_delay" = "音訊延遲: %.2f秒";
 "menu.sub_delay" = "字幕延遲: %.2f秒";
-"menu.fullscreen" = "進入全熒幕";
-"menu.exit_fullscreen" = "退出全熒幕";
+"menu.fullscreen" = "進入全螢幕";
+"menu.exit_fullscreen" = "結束全螢幕";
 "menu.pip" = "進入畫中畫";
-"menu.exit_pip" = "退出畫中畫";
+"menu.exit_pip" = "結束畫中畫";
 "menu.pause" = "暫停";
 "menu.resume" = "繼續";
 
 "track.none" = "<無>";
 
 // Alerts
-"alert.title_error" = "異常";
-"alert.title_warning" = "當心";
+"alert.title_error" = "錯誤";
+"alert.title_warning" = "注意";
 "alert.title_info" = "資訊";
 
-"alert.fatal_error" = "致命異常: %@ \n程序將關閉。";
-"alert.mpv_error" = "內部異常%@ (%@) ，當設定%@時";
-"alert.sleep" = "無法阻止熒幕進入睡眠";
+"alert.fatal_error" = "嚴重錯誤: %@ \n應用程式即將關閉。";
+"alert.mpv_error" = "內部錯誤%@ (%@) ，當設定%@時";
+"alert.sleep" = "無法阻止螢幕進入睡眠";
 
-"alert.unsupported_audio" = "不支持這個加載的音訊檔";
-"alert.unsupported_sub" = "不支持這個加載的字幕檔";
-"alert.unsupported_url" = "不支持這個 URL";
+"alert.unsupported_audio" = "不支援載入的音訊檔案";
+"alert.unsupported_sub" = "不支援載入的字幕檔案";
+"alert.unsupported_url" = "不支援的 URL";
 "alert.wrong_url_format" = "URL 格式有誤";
 
 "alert.error_open" = "打不開該檔案或 URL";
 "alert.error_finding_file" = "找不到%@";
-"alert.error_loading_script" = "無法加載腳本: %@";
+"alert.error_loading_script" = "無法載入腳本: %@";
 "alert.error_saving_file" = "保存%@時發生異常: %@";
 "alert.error_deleting_file" = "刪不掉這個檔案";
 
 "alert.config.new.title" = "新輸入設定";
-"alert.config.new.message" = "請爲新設定檔取名";
-"alert.config.duplicate.title" = "設定檔重複";
-"alert.config.duplicate.message" = "請爲重複的設定檔取名";
-"alert.config.empty_name" = "不能爲空";
+"alert.config.new.message" = "請命名新設定檔";
+"alert.config.duplicate.title" = "重複的設定檔";
+"alert.config.duplicate.message" = "請命名重複的設定檔";
+"alert.config.empty_name" = "不能為空";
 "alert.config.name_existing" = "名稱已存在";
 "alert.config.file_existing.title" = "檔案已存在";
-"alert.config.file_existing.message" = "這不該發生。點「好」覆蓋，點「取消」在 Finder 中查看檔案。";
-"alert.config.cannot_create" = "無法創建設定檔";
+"alert.config.file_existing.message" = "這不該發生。按一下「好」取代，按一下「取消」在 Finder 中檢視檔案。";
+"alert.config.cannot_create" = "無法建立設定檔";
 "alert.config.cannot_write" = "無法寫入設定檔";
 
 "alert.filter.incorrect" = "設定濾鏡時出現異常，請核對參數格式";
 "alert.add_filter.title" = "新濾鏡";
 "alert.add_filter.message" = "請輸入 mpv 的 vf 或 af 指令串";
 
-"alert.keybinding_config.error" = "快速鍵設定檔「%@」無法解析，現將使用 IINA 默認快速鍵代替，請核對該設定檔。";
+"alert.keybinding_config.error" = "快速鍵設定檔「%@」無法解析，將使用 IINA 預設的快速鍵代替，並請核對該設定檔。";
 
-"alert.extra_option.cannot_read" = "無法識別用戶自訂的 mpv 設定";
-"alert.extra_option.empty" = "鍵和值不可爲空！";
-"alert.extra_option.error" = "無法設定 --%@=%@（返回值：%d）。請於「偏好設定→高級」中核對您的額外選項設定。";
+"alert.extra_option.cannot_read" = "無法識別使用者自訂的 mpv 設定";
+"alert.extra_option.empty" = "鍵和值不可為空！";
+"alert.extra_option.error" = "無法設定 --%@=%@（返回值：%d）。請於「偏好設定→進階」中核對您的額外選項設定。";
 "alert.extra_option.config_folder" = "設定檔檔案夾「%@」無效";
 
 "alert.playlist.error_deleting" = "無法刪除%@";
 
-"alert.sub.no_selected" = "請先選定一個已下載的字幕檔";
-"alert.sub_lang_not_set" = "在使用 OpenSubtitles 前請先在「偏好設定」中設定字幕的偏好語言，當前將使用英文（eng）。";
-"alert.sub.cannot_save_passwd" = "無法將您這個密鑰「%@」保存到鑰匙串";
-"alert.sub.cannot_login" = "登入失敗，請核對您的用戶名、密鑰、網路連接。\n\n%@";
+"alert.sub.no_selected" = "請先選取一個已下載的字幕檔";
+"alert.sub_lang_not_set" = "在使用 OpenSubtitles 前請先在「偏好設定」中設定字幕的偏好語言，目前使用英文（eng）。";
+"alert.sub.cannot_save_passwd" = "無法將您這個密碼「%@」儲存到鑰匙串";
+"alert.sub.cannot_login" = "登入失敗，請核對您的使用者名稱、密碼及網路連線。\n\n%@";
 
-"alert.set_default.title" = "將 IINA 設爲默認 APP";
-"alert.set_default.message" = "即將把 IINA 設定爲其所支援的檔案格式的默認 APP";
+"alert.set_default.title" = "將 IINA 設為預設應用程式";
+"alert.set_default.message" = "即將把 IINA 設為所由支援檔案格式的預設應用程式";
 "alert.set_default.success" = "已成功%d個，失敗%d個";
 
-"alert.add_watch.title" = "添加監視屬性";
-"alert.add_watch.message" = "請輸入一個有效的 mpv 屬性";
+"alert.add_watch.title" = "新增監視內容";
+"alert.add_watch.message" = "請輸入一個有效的 mpv 內容";
 
-"alert.jump_to.title" = "跳轉至";
-"alert.jump_to.message" = "請輸入跳轉致的位置，例如：20:35";
+"alert.jump_to.title" = "跳轉到";
+"alert.jump_to.message" = "請輸入跳轉到的目標位置，例如：20:35";
 
 "alert.opensub.login.title" = "OpenSubtitles 登入";
-"alert.opensub.login.message" = "請輸入用戶名和密鑰";
+"alert.opensub.login.message" = "請輸入使用者名稱和密碼";
 
 "alert.open_url.title" = "打開 URL";
 "alert.open_url.message" = "請輸入 URL:";
-"alert.choose_media_file.title" = "選擇媒體檔";
+"alert.choose_media_file.title" = "選擇媒體檔案";
 
 "alert.delete_history.title" = "清空播放記錄";
-"alert.delete_history.message" = "確認要刪除當前選定記錄嗎？";
+"alert.delete_history.message" = "確定要刪除目遣選取的記錄嗎？";
 
-"alert.filter_hwdec.message" = "你正在新增視訊濾鏡。然而，當前的硬體解碼器不能很好地支援視訊濾鏡。你可以禁用硬體解碼，或使用支援「拷貝」的解碼器 (將佔用兩倍記憶體)。\n你可能需要再操作一次（例如剪下）才能看到效果。";
+"alert.filter_hwdec.message" = "您正在新增視訊濾鏡。目前的硬體解碼器無法完整支援視訊濾鏡。可以停用硬體解碼或使用支援「拷貝」的解碼器 (將使用兩倍的記憶體)。\n可能需要再操作一次（例如剪下）以套用效果。";
 "alert.filter_hwdec.abort" = "放棄";
 "alert.filter_hwdec.turn_off" = "關閉硬體解碼";
 "alert.filter_hwdec.use_copy" = "使用支援「拷貝」的解碼器";
@@ -176,16 +176,16 @@
 "pl_menu.play_next" = "即將播放";
 "pl_menu.play_in_new_window" = "在新視窗中打開";
 "pl_menu.remove" = "移除";
-"pl_menu.remove_multi" = "批量移除";
+"pl_menu.remove_multi" = "批次移除";
 "pl_menu.delete" = "刪除";
-"pl_menu.delete_multi" = "批量刪除";
+"pl_menu.delete_multi" = "批次刪除";
 "pl_menu.delete_after_play" = "於播放完畢後刪除";
-"pl_menu.delete_after_play_multi" = "批量播放，並於播放完畢後刪除";
+"pl_menu.delete_after_play_multi" = "批次播放，並於播放完畢後刪除";
 "pl_menu.reveal_in_finder" = "在 Finder 中打開";
-"pl_menu.add_item" = "添加檔案...";
+"pl_menu.add_item" = "新增檔案...";
 "pl_menu.clear_playlist" = "清空播放列表";
-"pl_menu.matched_sub" = "已匹配 %d 個字幕";
-"pl_menu.add_sub" = "添加字幕…";
+"pl_menu.matched_sub" = "已符合 %d 個字幕";
+"pl_menu.add_sub" = "新增字幕…";
 "pl_menu.wrong_sub" = "錯誤的字幕!";
 
 
@@ -196,8 +196,8 @@
 "filter.audio_filters" = "音訊濾鏡";
 
 "hwdec.no" = "不啟用硬體解碼。";
-"hwdec.auto" = "啟用硬體解碼。但是，大多數視訊濾鏡不會正常工作。";
-"hwdec.auto-copy" = "啟用硬體解碼。它會佔用兩倍左右的記憶體，但支援視訊濾鏡。";
+"hwdec.auto" = "啟用硬體解碼。大多數視訊濾鏡將無法正常運作。";
+"hwdec.auto-copy" = "啟用硬體解碼。將使用大約兩倍的記憶體，支援視訊濾鏡。";
 
 // Touch bar
 
@@ -212,5 +212,5 @@
 "touchbar.rewind" = "快退";
 "touchbar.fast_forward" = "快進";
 "touchbar.play_pause" = "播放 / 暫停";
-"touchbar.seek" = "進度條";
+"touchbar.seek" = "進度列";
 "touchbar.time" = "播放進度";
