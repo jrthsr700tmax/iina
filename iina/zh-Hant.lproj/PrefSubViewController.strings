@@ -1,8 +1,8 @@
 /* Class = "NSMenuItem"; title = "Subtitles containing media filename"; ObjectID = "1vo-so-iaM"; */
-"1vo-so-iaM.title" = "包含媒體檔案名的字幕";
+"1vo-so-iaM.title" = "包含媒體檔案名稱的字幕";
 
 /* Class = "NSTextFieldCell"; title = "Vertical position:"; ObjectID = "9N4-Zg-M7m"; */
-"9N4-Zg-M7m.title" = "豎直位置:";
+"9N4-Zg-M7m.title" = "垂直位置:";
 
 /* Class = "NSBox"; title = "Border"; ObjectID = "t5n-mc-dss"; */
 "t5n-mc-dss.title" = "邊框";
@@ -11,13 +11,13 @@
 "CdS-9J-f2h.title" = " X:";
 
 /* Class = "NSButtonCell"; title = "Display subtitles in letter box in full screen"; ObjectID = "2XY-Un-0Fg"; */
-"2XY-Un-0Fg.title" = "全熒幕時在方框內顯示字幕";
+"2XY-Un-0Fg.title" = "全螢幕時在方框內顯示字幕";
 
 /* Class = "NSTextFieldCell"; title = "Font spacing:"; ObjectID = "9EP-XB-lyO"; */
-"9EP-XB-lyO.title" = "字間距:";
+"9EP-XB-lyO.title" = "字距:";
 
 /* Class = "NSButtonCell"; title = "Scale subtitles with window size"; ObjectID = "8hj-ki-R0h"; */
-"8hj-ki-R0h.title" = "根據窗體大小自動調整字幕";
+"8hj-ki-R0h.title" = "依據窗體大小自動調整字幕";
 
 /* Class = "NSTextFieldCell"; title = "strip"; ObjectID = "AnI-pG-XQo"; */
 "AnI-pG-XQo.title" = "條帶";
@@ -47,7 +47,7 @@
 "TPK-CJ-HX7.title" = "從...下載字幕:";
 
 /* Class = "NSTextFieldCell"; title = "Text subtitles:"; ObjectID = "Qda-dp-nhg"; */
-"Qda-dp-nhg.title" = "文本字幕:";
+"Qda-dp-nhg.title" = "文字字幕:";
 
 /* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "6i0-Sx-V7F"; */
 "6i0-Sx-V7F.title" = "底部";
@@ -68,7 +68,7 @@
 "eYO-c0-Rjp.title" = "背景:";
 
 /* Class = "NSTextFieldCell"; title = "This option will be stored as ISO 639-2 language code and will works for both mpv and OpenSubtitles."; ObjectID = "Z2M-dh-eq1"; */
-"Z2M-dh-eq1.title" = "該設定將以ISO 639-2 字符集儲存，兼容於 mpv 和 OpenSubtitles";
+"Z2M-dh-eq1.title" = "該設定將以ISO 639-2 字元集儲存，並相容 mpv 和 OpenSubtitles。";
 
 /* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "ALz-LB-8sf"; */
 "ALz-LB-8sf.title" = "Y:";
@@ -80,7 +80,7 @@
 "SIh-Sv-6XI.title" = "顏色:";
 
 /* Class = "NSTextFieldCell"; title = "Auto load:"; ObjectID = "raf-Yu-ck0"; */
-"raf-Yu-ck0.title" = "自動加載:";
+"raf-Yu-ck0.title" = "自動載入:";
 
 /* Class = "NSMenuItem"; title = "Center"; ObjectID = "e0e-dB-Ir6"; */
 "e0e-dB-Ir6.title" = "中間";
@@ -92,16 +92,16 @@
 "nH7-kO-S15.title" = "選擇...";
 
 /* Class = "NSMenuItem"; title = "Disabled"; ObjectID = "clt-eT-TMN"; */
-"clt-eT-TMN.title" = "禁用";
+"clt-eT-TMN.title" = "停用";
 
 /* Class = "NSBox"; title = "Font"; ObjectID = "C4C-XP-i2S"; */
 "C4C-XP-i2S.title" = "字體";
 
 /* Class = "NSTextFieldCell"; title = "Not logged in"; ObjectID = "fUB-ll-Nvz"; */
-"fUB-ll-Nvz.title" = "未登入";
+"fUB-ll-Nvz.title" = "尚未登入";
 
 /* Class = "NSTextFieldCell"; title = "If enabled, all ASS subtitles will be drawn using the styles below."; ObjectID = "OcF-0z-7qe"; */
-"OcF-0z-7qe.title" = "這將導致 ASS 字幕使用以下設定渲染。";
+"OcF-0z-7qe.title" = "啟用後，ASS 字幕使用以下設定渲染。";
 
 /* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "xGf-fF-4Hx"; */
 "xGf-fF-4Hx.title" = "Y:";
@@ -110,13 +110,13 @@
 "4Tb-Yh-PdP.title" = "位置:";
 
 /* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "xid-E9-FC9"; */
-"xid-E9-FC9.title" = "顏色:";
+"xid-E9-FC9.title" = "色彩:";
 
 /* Class = "NSButtonCell"; title = "Login"; ObjectID = "l4s-EW-FkT"; */
 "l4s-EW-FkT.title" = "登入";
 
 /* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "vDc-dw-liI"; */
-"vDc-dw-liI.title" = "顏色:";
+"vDc-dw-liI.title" = "色彩:";
 
 /* Class = "NSBox"; title = "Shadow"; ObjectID = "BgE-Kk-MXC"; */
 "BgE-Kk-MXC.title" = "陰影";
@@ -128,7 +128,7 @@
 "pRe-wv-VVi.title" = "邊距";
 
 /* Class = "NSMenuItem"; title = "Subtitle with the exact same media filename"; ObjectID = "siy-Uq-tMP"; */
-"siy-Uq-tMP.title" = "同名的字幕檔案";
+"siy-Uq-tMP.title" = "同樣名稱的字幕檔案";
 
 /* Class = "NSTextFieldCell"; title = "Align"; ObjectID = "kvJ-Tj-KMb"; */
 "kvJ-Tj-KMb.title" = "對齊";
@@ -151,16 +151,16 @@
 /* Class = "NSMenuItem"; title = "Right"; ObjectID = "Gie-38-Kk4"; */
 "Gie-38-Kk4.title" = "右";
 
-"u31-eV-Arr.title" = "禁用";
+"u31-eV-Arr.title" = "停用";
 
-"y1E-JR-KRI.title" = "包含媒體文件名的字幕";
+"y1E-JR-KRI.title" = "包含媒體檔案名稱的字幕";
 
-"XiL-eE-jah.title" = "由 IINA 智能選擇";
+"XiL-eE-jah.title" = "由 IINA 智慧選取";
 
-"7pf-Kb-TNr.title" = "優先加載文件名含有以下字符串的字幕:";
+"7pf-Kb-TNr.title" = "優先載入檔案名稱中含有以下字串的字幕:";
 
-"Mk1-sv-QB8.title" = "請輸入一系列逗號分隔的字符串。";
+"Mk1-sv-QB8.title" = "請輸入一系列逗號分隔的字串。";
 
-"QsS-wD-2hY.title" = "在以下目錄中也查找字幕:";
+"QsS-wD-2hY.title" = "在下列目錄中尋找字幕:";
 
-"Luv-2B-9v8.title" = "各路徑由冒號 (:) 分隔。允許相對路徑和結尾的通配符 (*)。";
+"Luv-2B-9v8.title" = "各路徑由冒號 (:) 分隔。允許相對路徑和結尾的萬用符號 (*)。";
