@@ -14,7 +14,7 @@
 "E3I-Q7-9t1.headerCell.title" = "選項";
 
 /* Class = "NSTextFieldCell"; title = "The following settings will require restarting IINA to take effect."; ObjectID = "HMa-Vz-EUk"; */
-"HMa-Vz-EUk.title" = "以下所有設定需重啟程式方可生效。";
+"HMa-Vz-EUk.title" = "以下所有設定需要重新啟動應用程式後套用。";
 
 /* Class = "NSButtonCell"; title = "Open log directory"; ObjectID = "JDA-g3-RNX"; */
 "JDA-g3-RNX.title" = "打開日誌檔案夾";
