@@ -2,7 +2,7 @@
 "0vG-Pg-DIl.title" = "強制性";
 
 /* Class = "NSTextFieldCell"; title = "FPS:"; ObjectID = "1dz-Vt-0MO"; */
-"1dz-Vt-0MO.title" = "幀率:";
+"1dz-Vt-0MO.title" = "影格:";
 
 /* Class = "NSTextFieldCell"; title = "File path:"; ObjectID = "4jf-w4-kkv"; */
 "4jf-w4-kkv.title" = "檔案路徑:";
@@ -11,22 +11,22 @@
 "5H6-qJ-RDS.title" = "格式:";
 
 /* Class = "NSTextFieldCell"; title = "FPS:"; ObjectID = "7QX-tu-rvs"; */
-"7QX-tu-rvs.title" = "幀率:";
+"7QX-tu-rvs.title" = "影格:";
 
 /* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "9eq-rd-zGy"; */
-"9eq-rd-zGy.title" = "標識:";
+"9eq-rd-zGy.title" = "標題:";
 
 /* Class = "NSTextFieldCell"; title = "Bit Rate:"; ObjectID = "A4y-LL-x0z"; */
-"A4y-LL-x0z.title" = "比特率:";
+"A4y-LL-x0z.title" = "位元速率:";
 
 /* Class = "NSTextFieldCell"; title = "Mistimed Frames:"; ObjectID = "AYt-pH-UCi"; */
-"AYt-pH-UCi.title" = "錯位幀:";
+"AYt-pH-UCi.title" = "錯位影格:";
 
 /* Class = "NSTextFieldCell"; title = "Display FPS:"; ObjectID = "AjU-1T-aGR"; */
-"AjU-1T-aGR.title" = "熒幕幀率:";
+"AjU-1T-aGR.title" = "螢幕更新率:";
 
 /* Class = "NSTextFieldCell"; title = "Dropped Frames:"; ObjectID = "CrF-UR-udW"; */
-"CrF-UR-udW.title" = "丢失幀:";
+"CrF-UR-udW.title" = "遺失影格:";
 
 /* Class = "NSTextFieldCell"; title = "Hw Decoder:"; ObjectID = "DHh-ne-10f"; */
 "DHh-ne-10f.title" = "硬體解碼:";
@@ -47,13 +47,13 @@
 "Fqo-1c-3L1.ibShadowedLabels[2]" = "檔案";
 
 /* Class = "NSSegmentedCell"; Fqo-1c-3L1.ibShadowedLabels[3] = "Status"; ObjectID = "Fqo-1c-3L1"; */
-"Fqo-1c-3L1.ibShadowedLabels[3]" = "高級";
+"Fqo-1c-3L1.ibShadowedLabels[3]" = "進階";
 
 /* Class = "NSTextFieldCell"; title = "Driver:"; ObjectID = "I2E-6Z-Gnn"; */
-"I2E-6Z-Gnn.title" = "驅動:";
+"I2E-6Z-Gnn.title" = "磁碟機:";
 
 /* Class = "NSTextFieldCell"; title = "Estimated Disp FPS"; ObjectID = "JN9-3E-OJp"; */
-"JN9-3E-OJp.title" = "估算的熒幕幀率";
+"JN9-3E-OJp.title" = "預估的螢幕更新率";
 
 /* Class = "NSTextFieldCell"; title = "File Path:"; ObjectID = "Jxp-Wf-BhU"; */
 "Jxp-Wf-BhU.title" = "檔案路徑:";
@@ -65,10 +65,10 @@
 "Luq-rQ-aO4.title" = "聲道:";
 
 /* Class = "NSTextFieldCell"; title = "Driver:"; ObjectID = "MME-KZ-jrG"; */
-"MME-KZ-jrG.title" = "驅動:";
+"MME-KZ-jrG.title" = "磁碟機:";
 
 /* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "OCm-zb-deg"; */
-"OCm-zb-deg.title" = "時長:";
+"OCm-zb-deg.title" = "時間長度:";
 
 /* Class = "NSTextFieldCell"; title = "Selected"; ObjectID = "P65-zr-dOH"; */
 "P65-zr-dOH.title" = "已啟用";
@@ -77,7 +77,7 @@
 "PBk-VC-4gu.title" = "章:";
 
 /* Class = "NSTextFieldCell"; title = "External"; ObjectID = "PLL-fC-blc"; */
-"PLL-fC-blc.title" = "加載檔";
+"PLL-fC-blc.title" = "載入檔案";
 
 /* Class = "NSTextFieldCell"; title = "Editions:"; ObjectID = "POj-mQ-zP9"; */
 "POj-mQ-zP9.title" = "版本:";
@@ -86,7 +86,7 @@
 "PQD-yB-mm6.title" = "格式:";
 
 /* Class = "NSTextFieldCell"; title = "Default"; ObjectID = "S3X-Df-UMB"; */
-"S3X-Df-UMB.title" = "默認";
+"S3X-Df-UMB.title" = "預設";
 
 /* Class = "NSTabViewItem"; label = "Tracks"; ObjectID = "UuR-M1-YLj"; */
 "UuR-M1-YLj.label" = "軌";
@@ -104,7 +104,7 @@
 "daB-hU-mku.title" = "編碼:";
 
 /* Class = "NSTextFieldCell"; title = "Properties:"; ObjectID = "dtn-wS-j6U"; */
-"dtn-wS-j6U.title" = "屬性:";
+"dtn-wS-j6U.title" = "內容:";
 
 /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "f2P-qb-wRx"; */
 "f2P-qb-wRx.title" = "大小:";
@@ -116,25 +116,25 @@
 "f7i-wX-uxQ.title" = "軌:";
 
 /* Class = "NSTextFieldCell"; title = "Estimated Output FPS:"; ObjectID = "g8p-Ec-awO"; */
-"g8p-Ec-awO.title" = "估算的輸出幀率:";
+"g8p-Ec-awO.title" = "預估的輸出影格:";
 
 /* Class = "NSTextFieldCell"; title = "VIDEO"; ObjectID = "gDG-Eq-1Bc"; */
 "gDG-Eq-1Bc.title" = "視訊";
 
 /* Class = "NSTextFieldCell"; title = "A/V Sync Diff:"; ObjectID = "iVK-Ck-Lyq"; */
-"iVK-Ck-Lyq.title" = "音畫異步:";
+"iVK-Ck-Lyq.title" = "視訊及音訊位同步:";
 
 /* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "it3-05-Pwu"; */
 "it3-05-Pwu.title" = "聲道:";
 
 /* Class = "NSTextFieldCell"; title = "Source ID:"; ObjectID = "jCY-og-BAa"; */
-"jCY-og-BAa.title" = "源序列:";
+"jCY-og-BAa.title" = "來源序列:";
 
 /* Class = "NSTextFieldCell"; title = "Bit Rate:"; ObjectID = "jyV-Pd-UvH"; */
-"jyV-Pd-UvH.title" = "比特率:";
+"jyV-Pd-UvH.title" = "位元速率:";
 
 /* Class = "NSTextFieldCell"; title = "Sample Rate:"; ObjectID = "llF-4b-Z8b"; */
-"llF-4b-Z8b.title" = "採樣率:";
+"llF-4b-Z8b.title" = "取樣率:";
 
 /* Class = "NSTextFieldCell"; title = "ID:"; ObjectID = "mZG-ik-Led"; */
 "mZG-ik-Led.title" = "序列:";
@@ -149,13 +149,13 @@
 "nrG-IH-kFg.title" = "音訊";
 
 /* Class = "NSTextFieldCell"; title = "Total A/V Sync:"; ObjectID = "sbO-Cn-gpI"; */
-"sbO-Cn-gpI.title" = "總音畫同步:";
+"sbO-Cn-gpI.title" = "同步所有視訊及音訊:";
 
 /* Class = "NSTextFieldCell"; title = "Watch"; ObjectID = "tNS-gW-PcC"; */
 "tNS-gW-PcC.title" = "監視";
 
 /* Class = "NSTextFieldCell"; title = "Sample Rate:"; ObjectID = "vrP-XL-Weg"; */
-"vrP-XL-Weg.title" = "採樣率:";
+"vrP-XL-Weg.title" = "取樣率:";
 
 /* Class = "NSTextFieldCell"; title = "Decoder:"; ObjectID = "xix-0S-ehE"; */
 "xix-0S-ehE.title" = "解碼器:";
