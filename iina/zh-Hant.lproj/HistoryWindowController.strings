@@ -32,7 +32,7 @@
 "VH5-en-8FR.title" = "檔案夾";
 
 /* Class = "NSMenuItem"; title = "Filename"; ObjectID = "Wkp-Vn-JoJ"; */
-"Wkp-Vn-JoJ.title" = "檔案名";
+"Wkp-Vn-JoJ.title" = "檔案名稱";
 
 /* Class = "NSMenu"; title = "Context Menu"; ObjectID = "lR3-1E-Rwr"; */
 "lR3-1E-Rwr.title" = "Context Menu";
